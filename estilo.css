@@ -1,0 +1,32 @@
+
+.titulo{
+	font-size: 3em;
+	text-align: center;
+	margin-top: 1em;
+	font-family: "Broadway";
+	color: blue;
+	
+}
+.parrafo{
+	text-align: justify;
+	font-family:"Arial";
+	color: #290A52;
+	margin-top: 1.5em;
+}
+.subtitulo{
+font-family: "Arial Black";
+color: #ffffff;
+font-size: 2em; 
+}
+.fondo2{
+	background: #D59FB4;
+	margin-top: 2em;
+}
+
+.lista li{
+	margin-top:1em;
+	
+}
+.fondo3{
+	background-color: #E8B4C8;
+}
