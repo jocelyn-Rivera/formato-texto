@@ -1,32 +1,48 @@
-
-.titulo{
-	font-size: 3em;
-	text-align: center;
-	margin-top: 1em;
-	font-family: "Broadway";
-	color: blue;
+ 
+body{
+	background: 	#2E2E2E;
+}
+header{
 	
+	margin-top:2em; 
+
+}
+.titulo{
+	font-size: 5em;
+	text-align: center;
+	font-family:"Times New Roman";
+	color: yellow;
+}
+.fondo{
+	background: black;
 }
 .parrafo{
 	text-align: justify;
-	font-family:"Arial";
-	color: #290A52;
+	font-family:"Comic Sans MS";
 	margin-top: 1.5em;
+	letter-spacing: 1px;
+	font-size: 12px;
 }
 .subtitulo{
-font-family: "Arial Black";
-color: #ffffff;
-font-size: 2em; 
+	font-family: 'Baloo Bhai', cursive;
+	font-size: 2em; 
+	color:#000000;
 }
 .fondo2{
-	background: #D59FB4;
+	background: #ffffff;
 	margin-top: 2em;
 }
 
 .lista li{
-	margin-top:1em;
-	
+	margin-top:1em ;
 }
 .fondo3{
-	background-color: #E8B4C8;
+	background: #E6E6E6;
+	border-left: 1em solid #2E2E2E;
+}
+.subtitulo2{
+	text-align: center;
+font-family: 'Baloo Bhai', cursive;
+	color: #E74C3C;
+	font-size: 2em; 
 }
